@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TextUtilies/static/css/main.073c9b0a.css",
-    "main.js": "/TextUtilies/static/js/main.a9374bca.js",
-    "static/js/787.142da1d4.chunk.js": "/TextUtilies/static/js/787.142da1d4.chunk.js",
-    "static/media/logo.svg": "/TextUtilies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/TextUtilies/index.html",
-    "main.073c9b0a.css.map": "/TextUtilies/static/css/main.073c9b0a.css.map",
-    "main.a9374bca.js.map": "/TextUtilies/static/js/main.a9374bca.js.map",
-    "787.142da1d4.chunk.js.map": "/TextUtilies/static/js/787.142da1d4.chunk.js.map"
+    "main.css": "/WordBuddy/static/css/main.073c9b0a.css",
+    "main.js": "/WordBuddy/static/js/main.a136eb2c.js",
+    "static/js/787.142da1d4.chunk.js": "/WordBuddy/static/js/787.142da1d4.chunk.js",
+    "static/media/logo.svg": "/WordBuddy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/WordBuddy/index.html",
+    "main.073c9b0a.css.map": "/WordBuddy/static/css/main.073c9b0a.css.map",
+    "main.a136eb2c.js.map": "/WordBuddy/static/js/main.a136eb2c.js.map",
+    "787.142da1d4.chunk.js.map": "/WordBuddy/static/js/787.142da1d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a9374bca.js"
+    "static/js/main.a136eb2c.js"
   ]
 }
