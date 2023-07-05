@@ -42,15 +42,16 @@ export const TextForm = (prop) => {
     setText(newtext);
   }
   const download=()=>{
-    // let text=document.getElementById("mytext")
+     let text=document.getElementById("mytext")
     // console.log(text.value)
+   let pdf=text.value
     // Include the jsPDF library
 
 // Create a new PDF instance
 var doc = new jsPDF();
 
 // Add content to the PDF
-doc.text(text.valueOf, 10, 10);
+doc.text(pdf, 10, 10);
 
 // Save the PDF
 doc.save('sample.pdf');
